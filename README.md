@@ -132,4 +132,5 @@ files.download('model.tflite')
 ```
 
 # 使用实验三的应用验证生成的模型
+![Screenshot 2025-05-21 101304](https://github.com/user-attachments/assets/effdd535-d54e-4d5f-b8c4-d9621240db61)
 
